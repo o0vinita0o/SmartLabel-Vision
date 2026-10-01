@@ -1,0 +1,23 @@
+
+# Build Outputs & Binaries
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+
+# Visual Studio Workspace & User Settings
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+
+# TestImageGenerator generates these automatically on app startup
+sample_images/
+
+
+# OS & Editor Metadata
+.DS_Store
+Thumbs.db
